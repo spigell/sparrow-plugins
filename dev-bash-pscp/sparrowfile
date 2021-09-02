@@ -1,0 +1,5 @@
+file '/etc/hosts', %(
+  content => (slurp './examples/files/hosts')
+);
+EVALFILE './examples/main.pl6';
+EVALFILE './examples/multi_hosts.pl6';

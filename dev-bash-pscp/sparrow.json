@@ -1,0 +1,7 @@
+{
+  "name" : "bash-pscp",
+  "version" : "0.1.3",
+  "description" : "parallel scp on bash",
+  "category" : "utilities",
+  "url" : "https://github.com/Spigell/bash-pscp"
+}
